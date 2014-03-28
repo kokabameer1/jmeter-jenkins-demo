@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="2546" lt="0" ts="1395902431095" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="43287">
+  <httpSample t="2546" lt="955" ts="1395902431459" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="43287">
+    <httpSample t="955" lt="955" ts="1395902431459" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="1201" lt="1076" ts="1395902432423" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="40079"/>
+    <httpSample t="284" lt="83" ts="1395902433721" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="2100" lt="0" ts="1395902431893" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="43487">
+  <httpSample t="2100" lt="192" ts="1395902431909" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="43487">
+    <httpSample t="192" lt="192" ts="1395902431909" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="1427" lt="1287" ts="1395902432197" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="40279"/>
+    <httpSample t="289" lt="79" ts="1395902433720" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="1314" lt="0" ts="1395902432702" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="43286">
+  <httpSample t="1314" lt="182" ts="1395902432713" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="43286">
+    <httpSample t="182" lt="182" ts="1395902432713" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="841" lt="732" ts="1395902432914" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="40078"/>
+    <httpSample t="257" lt="56" ts="1395902433770" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="662" lt="0" ts="1395902434020" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="35834">
+  <httpSample t="662" lt="161" ts="1395902434021" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="35834"/>
+</sample>
+<sample t="702" lt="0" ts="1395902434029" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="34992">
+  <httpSample t="702" lt="165" ts="1395902434030" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="34992"/>
+</sample>
+<sample t="729" lt="0" ts="1395902434019" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="35616">
+  <httpSample t="729" lt="150" ts="1395902434020" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="35616"/>
+</sample>
+<sample t="1320" lt="0" ts="1395902433561" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="43293">
+  <httpSample t="1320" lt="184" ts="1395902433581" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="43293">
+    <httpSample t="184" lt="184" ts="1395902433581" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="838" lt="749" ts="1395902433786" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="40085"/>
+    <httpSample t="270" lt="69" ts="1395902434631" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="738" lt="0" ts="1395902434903" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="35583">
+  <httpSample t="738" lt="153" ts="1395902434904" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="35583"/>
+</sample>
+<sample t="1319" lt="0" ts="1395902434317" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="43275">
+  <httpSample t="1319" lt="177" ts="1395902434334" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="43275">
+    <httpSample t="177" lt="177" ts="1395902434334" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="852" lt="744" ts="1395902434531" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="40067"/>
+    <httpSample t="256" lt="56" ts="1395902435397" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="628" lt="0" ts="1395902435654" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="35630">
+  <httpSample t="628" lt="314" ts="1395902435655" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="35630"/>
+</sample>
+<sample t="23383" lt="0" ts="1395902436285" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="1059238">
+  <httpSample t="149" lt="149" ts="1395902436286" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="593"/>
+  <httpSample t="271" lt="271" ts="1395902436436" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="1381"/>
+  <httpSample t="684" lt="684" ts="1395902436724" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3044"/>
+  <httpSample t="340" lt="340" ts="1395902437413" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="965"/>
+  <httpSample t="334" lt="334" ts="1395902437754" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="6287"/>
+  <httpSample t="257" lt="177" ts="1395902438106" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="16117"/>
+  <httpSample t="83" lt="83" ts="1395902438364" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="404"/>
+  <httpSample t="3344" lt="342" ts="1395902438448" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="165871"/>
+  <httpSample t="3085" lt="348" ts="1395902441794" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="116122"/>
+  <httpSample t="534" lt="534" ts="1395902444880" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2011"/>
+  <httpSample t="566" lt="566" ts="1395902445431" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1689"/>
+  <httpSample t="1259" lt="319" ts="1395902446002" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="51739"/>
+  <httpSample t="320" lt="320" ts="1395902447263" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2078"/>
+  <httpSample t="4946" lt="318" ts="1395902447584" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="251616"/>
+  <httpSample t="7211" lt="343" ts="1395902452532" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="439321"/>
+</sample>
+<sample t="0" lt="0" ts="1395902459746" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="0"/>
+<sample t="610" lt="0" ts="1395902459747" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="43285">
+  <httpSample t="610" lt="109" ts="1395902459748" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="43285">
+    <httpSample t="109" lt="109" ts="1395902459748" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="223" lt="159" ts="1395902459858" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="40077"/>
+    <httpSample t="264" lt="55" ts="1395902460094" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="24746" lt="0" ts="1395902435644" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="1059238">
+  <httpSample t="153" lt="153" ts="1395902435644" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="593"/>
+  <httpSample t="270" lt="270" ts="1395902435798" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="1381"/>
+  <httpSample t="1062" lt="1061" ts="1395902436086" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3044"/>
+  <httpSample t="339" lt="339" ts="1395902437151" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="965"/>
+  <httpSample t="342" lt="342" ts="1395902437491" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="6287"/>
+  <httpSample t="262" lt="173" ts="1395902437851" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="16117"/>
+  <httpSample t="89" lt="89" ts="1395902438114" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="404"/>
+  <httpSample t="2356" lt="337" ts="1395902438204" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="165871"/>
+  <httpSample t="3087" lt="350" ts="1395902440561" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="116122"/>
+  <httpSample t="550" lt="550" ts="1395902443650" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2011"/>
+  <httpSample t="1322" lt="1322" ts="1395902444221" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1689"/>
+  <httpSample t="1578" lt="322" ts="1395902445544" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="51739"/>
+  <httpSample t="319" lt="319" ts="1395902447124" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2078"/>
+  <httpSample t="5002" lt="321" ts="1395902447444" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="251616"/>
+  <httpSample t="8015" lt="367" ts="1395902452448" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="439321"/>
+</sample>
+<sample t="0" lt="0" ts="1395902460466" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="0"/>
+<sample t="479" lt="0" ts="1395902460360" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="35682">
+  <httpSample t="479" lt="151" ts="1395902460361" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="35682"/>
+</sample>
+<sample t="650" lt="0" ts="1395902460467" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="43286">
+  <httpSample t="650" lt="115" ts="1395902460467" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="43286">
+    <httpSample t="115" lt="115" ts="1395902460467" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="252" lt="160" ts="1395902460586" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="40078"/>
+    <httpSample t="265" lt="65" ts="1395902460852" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="26603" lt="0" ts="1395902434750" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1059238">
+  <httpSample t="144" lt="144" ts="1395902434750" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="593"/>
+  <httpSample t="257" lt="257" ts="1395902434895" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="1381"/>
+  <httpSample t="1754" lt="1754" ts="1395902435159" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3044"/>
+  <httpSample t="336" lt="336" ts="1395902436916" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="965"/>
+  <httpSample t="340" lt="340" ts="1395902437254" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6287"/>
+  <httpSample t="396" lt="316" ts="1395902437613" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="16117"/>
+  <httpSample t="85" lt="85" ts="1395902438010" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="404"/>
+  <httpSample t="2644" lt="333" ts="1395902438096" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="165871"/>
+  <httpSample t="3080" lt="348" ts="1395902440741" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="116122"/>
+  <httpSample t="353" lt="353" ts="1395902443823" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2011"/>
+  <httpSample t="1121" lt="1121" ts="1395902444218" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1689"/>
+  <httpSample t="1267" lt="322" ts="1395902445340" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="51739"/>
+  <httpSample t="318" lt="318" ts="1395902446609" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2078"/>
+  <httpSample t="4953" lt="324" ts="1395902446928" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="251616"/>
+  <httpSample t="9555" lt="335" ts="1395902451883" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="439321"/>
+</sample>
+<sample t="0" lt="0" ts="1395902461441" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="0"/>
+<sample t="623" lt="0" ts="1395902461119" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="35658">
+  <httpSample t="623" lt="158" ts="1395902461119" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="35658"/>
+</sample>
+<sample t="27041" lt="0" ts="1395902434684" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="1059238">
+  <httpSample t="158" lt="158" ts="1395902434684" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="593"/>
+  <httpSample t="267" lt="267" ts="1395902434844" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1381"/>
+  <httpSample t="1806" lt="1806" ts="1395902435128" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3044"/>
+  <httpSample t="333" lt="333" ts="1395902436936" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="965"/>
+  <httpSample t="345" lt="345" ts="1395902437270" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="6287"/>
+  <httpSample t="383" lt="302" ts="1395902437630" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="16117"/>
+  <httpSample t="86" lt="86" ts="1395902438015" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="404"/>
+  <httpSample t="3312" lt="337" ts="1395902438111" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="165871"/>
+  <httpSample t="3091" lt="347" ts="1395902441425" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="116122"/>
+  <httpSample t="337" lt="337" ts="1395902444517" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2011"/>
+  <httpSample t="1152" lt="1152" ts="1395902444871" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1689"/>
+  <httpSample t="1248" lt="318" ts="1395902446024" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="51739"/>
+  <httpSample t="523" lt="523" ts="1395902447274" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2078"/>
+  <httpSample t="4677" lt="313" ts="1395902447798" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="251616"/>
+  <httpSample t="9323" lt="323" ts="1395902452477" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="439321"/>
+</sample>
+<sample t="0" lt="0" ts="1395902461804" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="0"/>
+<sample t="627" lt="0" ts="1395902461442" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="43294">
+  <httpSample t="627" lt="110" ts="1395902461443" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="43294">
+    <httpSample t="110" lt="110" ts="1395902461443" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="228" lt="161" ts="1395902461557" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="40086"/>
+    <httpSample t="270" lt="64" ts="1395902461800" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="427" lt="0" ts="1395902461805" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="43295">
+  <httpSample t="427" lt="111" ts="1395902461806" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="43295">
+    <httpSample t="111" lt="111" ts="1395902461806" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="208" lt="149" ts="1395902461921" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="40087"/>
+    <httpSample t="91" lt="91" ts="1395902462142" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="477" lt="0" ts="1395902462072" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="35629">
+  <httpSample t="477" lt="168" ts="1395902462072" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="35629"/>
+</sample>
+<sample t="475" lt="0" ts="1395902462234" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="35615">
+  <httpSample t="475" lt="158" ts="1395902462235" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="35615"/>
+</sample>
+<sample t="30387" lt="0" ts="1395902434733" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="1059238">
+  <httpSample t="141" lt="140" ts="1395902434733" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="593"/>
+  <httpSample t="256" lt="256" ts="1395902434875" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="1381"/>
+  <httpSample t="1781" lt="1781" ts="1395902435142" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3044"/>
+  <httpSample t="337" lt="337" ts="1395902436925" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="965"/>
+  <httpSample t="340" lt="340" ts="1395902437263" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="6287"/>
+  <httpSample t="387" lt="304" ts="1395902437628" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="16117"/>
+  <httpSample t="93" lt="93" ts="1395902438016" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="404"/>
+  <httpSample t="3005" lt="344" ts="1395902438110" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="165871"/>
+  <httpSample t="3104" lt="350" ts="1395902441116" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="116122"/>
+  <httpSample t="355" lt="355" ts="1395902444222" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2011"/>
+  <httpSample t="1200" lt="1200" ts="1395902444585" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1689"/>
+  <httpSample t="1579" lt="326" ts="1395902445786" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="51739"/>
+  <httpSample t="324" lt="324" ts="1395902447367" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2078"/>
+  <httpSample t="5583" lt="317" ts="1395902447692" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="251616"/>
+  <httpSample t="11902" lt="334" ts="1395902453277" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="439321"/>
+</sample>
+<sample t="0" lt="0" ts="1395902465182" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="0"/>
+<sample t="810" lt="0" ts="1395902465183" s="true" lb="Launch Google" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="43286">
+  <httpSample t="810" lt="172" ts="1395902465183" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="43286">
+    <httpSample t="172" lt="172" ts="1395902465183" s="true" lb="http://www.google.co.in/" rc="302" rm="Found" tn="" dt="text" by="1023"/>
+    <httpSample t="318" lt="203" ts="1395902465359" s="true" lb="https://www.google.co.in/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="40078"/>
+    <httpSample t="304" lt="108" ts="1395902465689" s="true" lb="https://www.google.co.in/images/icons/product/chrome-48.png" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="2185"/>
+  </httpSample>
+</sample>
+<sample t="515" lt="0" ts="1395902465994" s="true" lb="Search" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="35637">
+  <httpSample t="515" lt="238" ts="1395902465994" s="true" lb="/search" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="35637"/>
+</sample>
+<sample t="22108" lt="0" ts="1395902460841" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="1059237">
+  <httpSample t="156" lt="156" ts="1395902460842" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="593"/>
+  <httpSample t="66" lt="65" ts="1395902460999" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="1381"/>
+  <httpSample t="314" lt="314" ts="1395902461065" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3043"/>
+  <httpSample t="310" lt="310" ts="1395902461382" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="965"/>
+  <httpSample t="311" lt="311" ts="1395902461693" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="6287"/>
+  <httpSample t="304" lt="64" ts="1395902462005" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="16117"/>
+  <httpSample t="63" lt="63" ts="1395902462310" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="404"/>
+  <httpSample t="2767" lt="311" ts="1395902462374" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="165871"/>
+  <httpSample t="3389" lt="317" ts="1395902465142" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="116122"/>
+  <httpSample t="316" lt="316" ts="1395902468532" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2011"/>
+  <httpSample t="376" lt="376" ts="1395902468849" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1689"/>
+  <httpSample t="1430" lt="317" ts="1395902469226" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="51739"/>
+  <httpSample t="311" lt="311" ts="1395902470656" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="2078"/>
+  <httpSample t="5258" lt="319" ts="1395902470968" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="251616"/>
+  <httpSample t="6737" lt="311" ts="1395902476229" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-5" dt="bin" by="439321"/>
+</sample>
+<sample t="20956" lt="0" ts="1395902462711" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="1059237">
+  <httpSample t="149" lt="149" ts="1395902462712" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="593"/>
+  <httpSample t="65" lt="65" ts="1395902462862" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1381"/>
+  <httpSample t="312" lt="312" ts="1395902462928" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3043"/>
+  <httpSample t="308" lt="308" ts="1395902463243" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="965"/>
+  <httpSample t="310" lt="310" ts="1395902463552" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="6287"/>
+  <httpSample t="302" lt="259" ts="1395902463863" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="16117"/>
+  <httpSample t="57" lt="57" ts="1395902464167" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="404"/>
+  <httpSample t="3033" lt="308" ts="1395902464225" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="165871"/>
+  <httpSample t="2736" lt="315" ts="1395902467260" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="116122"/>
+  <httpSample t="312" lt="311" ts="1395902469997" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2011"/>
+  <httpSample t="521" lt="521" ts="1395902470309" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1689"/>
+  <httpSample t="1221" lt="314" ts="1395902470831" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="51739"/>
+  <httpSample t="308" lt="308" ts="1395902472054" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="2078"/>
+  <httpSample t="4892" lt="309" ts="1395902472363" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="251616"/>
+  <httpSample t="6430" lt="310" ts="1395902477257" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="439321"/>
+</sample>
+<sample t="25503" lt="0" ts="1395902461744" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="1059237">
+  <httpSample t="156" lt="156" ts="1395902461744" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="593"/>
+  <httpSample t="66" lt="66" ts="1395902461901" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="1381"/>
+  <httpSample t="316" lt="316" ts="1395902461967" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3043"/>
+  <httpSample t="311" lt="311" ts="1395902462289" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="965"/>
+  <httpSample t="312" lt="312" ts="1395902462601" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="6287"/>
+  <httpSample t="306" lt="59" ts="1395902462914" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="16117"/>
+  <httpSample t="57" lt="57" ts="1395902463221" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="404"/>
+  <httpSample t="3990" lt="312" ts="1395902463278" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="165871"/>
+  <httpSample t="3369" lt="317" ts="1395902467270" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="116122"/>
+  <httpSample t="316" lt="316" ts="1395902470640" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2011"/>
+  <httpSample t="433" lt="433" ts="1395902470957" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1689"/>
+  <httpSample t="1238" lt="317" ts="1395902471392" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="51739"/>
+  <httpSample t="313" lt="313" ts="1395902472631" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="2078"/>
+  <httpSample t="6431" lt="319" ts="1395902472945" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="251616"/>
+  <httpSample t="7889" lt="315" ts="1395902479379" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-4" dt="bin" by="439321"/>
+</sample>
+<sample t="32423" lt="0" ts="1395902462550" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1059237">
+  <httpSample t="150" lt="150" ts="1395902462551" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="593"/>
+  <httpSample t="84" lt="84" ts="1395902462702" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="1381"/>
+  <httpSample t="316" lt="316" ts="1395902462787" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3043"/>
+  <httpSample t="309" lt="309" ts="1395902463105" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="965"/>
+  <httpSample t="311" lt="311" ts="1395902463415" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6287"/>
+  <httpSample t="308" lt="89" ts="1395902463727" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="16117"/>
+  <httpSample t="59" lt="59" ts="1395902464036" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="404"/>
+  <httpSample t="5348" lt="316" ts="1395902464096" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="165871"/>
+  <httpSample t="3654" lt="618" ts="1395902469445" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="116122"/>
+  <httpSample t="311" lt="311" ts="1395902473101" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2011"/>
+  <httpSample t="452" lt="452" ts="1395902473412" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1689"/>
+  <httpSample t="2824" lt="314" ts="1395902473865" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="51739"/>
+  <httpSample t="309" lt="309" ts="1395902476691" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2078"/>
+  <httpSample t="6551" lt="313" ts="1395902477001" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="251616"/>
+  <httpSample t="11437" lt="310" ts="1395902483554" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="439321"/>
+</sample>
+<sample t="30930" lt="0" ts="1395902466510" s="true" lb="open Link" rc="200" rm="Number of samples in transaction : 15, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="1059237">
+  <httpSample t="211" lt="211" ts="1395902466511" s="true" lb="/url" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="593"/>
+  <httpSample t="57" lt="57" ts="1395902466723" s="true" lb="/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="1381"/>
+  <httpSample t="315" lt="315" ts="1395902466781" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3043"/>
+  <httpSample t="311" lt="311" ts="1395902467098" s="true" lb="/_img/favicon.ico" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="965"/>
+  <httpSample t="311" lt="311" ts="1395902467410" s="true" lb="/swfobject.js" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="6287"/>
+  <httpSample t="310" lt="59" ts="1395902467722" s="true" lb="/ga.js" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="16117"/>
+  <httpSample t="57" lt="57" ts="1395902468033" s="true" lb="/__utm.gif" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="404"/>
+  <httpSample t="7118" lt="327" ts="1395902468091" s="true" lb="/_img/noflash.jpg" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="165871"/>
+  <httpSample t="2458" lt="324" ts="1395902475211" s="true" lb="/_swf/ilm.swf" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="116122"/>
+  <httpSample t="312" lt="312" ts="1395902477671" s="true" lb="/_xml/navigation.xml" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2011"/>
+  <httpSample t="380" lt="380" ts="1395902477984" s="true" lb="/get/flashplayer/update/current/xml/version_en_win_pl.xml" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1689"/>
+  <httpSample t="1233" lt="315" ts="1395902478365" s="true" lb="/_swf/lens.swf" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="51739"/>
+  <httpSample t="508" lt="508" ts="1395902479599" s="true" lb="/_xml/home.xml" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="2078"/>
+  <httpSample t="4899" lt="311" ts="1395902480108" s="true" lb="/_img/home/dirt_hmpg_nofx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="251616"/>
+  <httpSample t="12450" lt="318" ts="1395902485009" s="true" lb="/_img/home/dirt_hmpg_fx_001.jpg" rc="200" rm="OK" tn="Thread Group 1-3" dt="bin" by="439321"/>
+</sample>
+
+</testResults>
